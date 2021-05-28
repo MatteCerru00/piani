@@ -4,15 +4,7 @@
 
   </head>
 
-<style>
-    body
-    {
-      background-image:url("https://guidatv.sky.it/uuid/7cca5c06-c0ac-42ab-8590-f93cc62f8873/background?md5ChecksumParam=954184aff8189f267289d6261af4bbcb");
-      background-repeat: repeat;
-      background-size: cover;
-      background-position: center center;
-    }
-</style>
+<body>
 
 
 <font color="FF0000"><h1 align="center"><span STYLE="background:#d3d3d3;">STORICO PARTITE DEI PIANI:</span></h1></font>
