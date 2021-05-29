@@ -14,7 +14,6 @@
   <td width="50%" bgcolor="#11beb1">
    <div style="float: right; text-align: left; width: 65%;">
     <h2><p>VINTA:</p></h2>
-  </td>
   <td width="50%" bgcolor="#e0722a">
    <div style="float: right; text-align: left; width: 65%;">
     <h2><p>PERSA:</p></h2>
