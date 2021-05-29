@@ -6,10 +6,6 @@
 
 <body>
 
-
-<font color="FF0000"><h1 align="center"><span STYLE="background:#d3d3d3;">STORICO PARTITE DEI PIANI:</span></h1></font>
-<h1 align="center"><span STYLE="background:#d3d3d3;">Legenda:</span></h1>
-
 .. table:: Didascalia testo tabella. Enim ad minim veniam neste.
    :name: attivita-previste
 
