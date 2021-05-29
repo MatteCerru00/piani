@@ -17,8 +17,3 @@
   <td width="50%" bgcolor="#e0722a">
    <div style="float: right; text-align: left; width: 65%;">
     <h2><p>PERSA:</p></h2>
- </tr>
-</table>
-
-
-</body>
